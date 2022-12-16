@@ -11,8 +11,8 @@ Features:
 * Sprint speed.
 * Infinity jumps.
 * Bees does not follow player.
-* Ivincible (player won't die).
-* Air hockeies does not actually shoot.
+* Invincible (player won't die).
+* Air hockey does not actually shoot.
 * Invisible.
 * Jetpack.
 * No AFK (not tested).
