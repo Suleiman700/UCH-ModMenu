@@ -1,6 +1,10 @@
 # UCH-ModMenu - v2.0
 ### A great mod menu for ultimate chicken horse game.
 
+Tested on version: 1.9.03
+
+Version date: 2022-11-2022
+
 
 Features:
 * High jump.
