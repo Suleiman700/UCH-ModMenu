@@ -20,8 +20,9 @@ Features:
 
 How To:
 1) Download the `dll` file
-2) Place it in your game directory: `\SteamLibrary\steamapps\common\Ultimate Chicken Horse\UltimateChickenHorse_Data\Managed\`
-3) rename the `dll` file to `Assembly-CSharp.dll`
+2) Delete original `Assembly-CSharp.dll` file
+3) Place it in your game directory: `\SteamLibrary\steamapps\common\Ultimate Chicken Horse\UltimateChickenHorse_Data\Managed\`
+4) rename the `dll` file to `Assembly-CSharp.dll`
 
 
 https://user-images.githubusercontent.com/25286081/208152383-8d0cb2b9-3a05-4fa1-8ca7-03588f308d9e.mp4
