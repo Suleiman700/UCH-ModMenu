@@ -1,10 +1,7 @@
-# UCH-ModMenu - v2.0
+# UCH-ModMenu - v3.0
 ### A great mod menu for ultimate chicken horse game.
 
 Tested on version: 1.9.03
-
-Version date: 2022-11-2022
-
 
 Features:
 * High jump.
@@ -19,6 +16,7 @@ Features:
 * Remove block placement collision check (just like how i placed blocks in the video below).
 * Get instant win (even if you died)
 * Slide on walls
+* Change FOV
 
 How To:
 1) Download the `dll` file
