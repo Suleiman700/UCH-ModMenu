@@ -3,7 +3,7 @@
 
 Tested on version: 1.9.03
 
-Features:
+### Features:
 * High jump.
 * Sprint speed.
 * Infinity jumps.
@@ -18,12 +18,15 @@ Features:
 * Slide on walls
 * Change FOV
 * Password protected cheats
+* Toggle Debug Mode
+* Unlock all levels and outfits
 
-* Password Protected Cheats
+
+### Password Protected Cheats
 Most of the cheats are password protected, You'll have to enter the password in order to use these cheats.
 The password for protected cheats is `ILOVEUCH`
 
-How To:
+### How To:
 1) Download the `dll` file
 2) Delete original `Assembly-CSharp.dll` file
 3) Place it in your game directory: `\SteamLibrary\steamapps\common\Ultimate Chicken Horse\UltimateChickenHorse_Data\Managed\`
