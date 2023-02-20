@@ -2,6 +2,7 @@
 ### A great mod menu for ultimate chicken horse game.
 
 Tested on version: 1.9.03
+Last Update: 20/02/2023
 
 ### Features:
 * High jump.
