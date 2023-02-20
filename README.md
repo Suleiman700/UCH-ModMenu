@@ -1,4 +1,4 @@
-# UCH-ModMenu - v3.0
+# UCH-ModMenu - v3.1
 ### A great mod menu for ultimate chicken horse game.
 
 Tested on version: 1.9.03
@@ -17,6 +17,11 @@ Features:
 * Get instant win (even if you died)
 * Slide on walls
 * Change FOV
+* Password protected cheats
+
+* Password Protected Cheats
+Most of the cheats are password protected, You'll have to enter the password in order to use these cheats.
+The password for protected cheats is `ILOVEUCH`
 
 How To:
 1) Download the `dll` file
