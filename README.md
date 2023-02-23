@@ -1,8 +1,8 @@
-# UCH-ModMenu - v3.1
+# UCH-ModMenu - v3.2
 ### A great mod menu for ultimate chicken horse game.
 
 Tested on version: 1.9.03
-Last Update: 20/02/2023
+Last Update: 23/02/2023
 
 ### Features:
 * High jump.
@@ -21,6 +21,7 @@ Last Update: 20/02/2023
 * Password protected cheats
 * Toggle Debug Mode
 * Unlock all levels and outfits
+* Added death stats
 
 
 ### Password Protected Cheats
