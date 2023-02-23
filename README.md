@@ -22,6 +22,7 @@ Last Update: 23/02/2023
 * Toggle Debug Mode
 * Unlock all levels and outfits
 * Added death stats
+* Show/Hide the mod menu by pressing `INSERT`
 
 
 ### Password Protected Cheats
